@@ -1,10 +1,16 @@
 {
   "tasks": [
     {
-      "text": "First Task",
-      "day": "123",
+      "text": "Go Gym",
+      "day": "29/06/2022",
       "reminder": true,
       "id": 1
+    },
+    {
+      "text": "Go for a walk",
+      "day": "1/08/2022 12:59",
+      "reminder": false,
+      "id": 2
     }
   ]
 }
