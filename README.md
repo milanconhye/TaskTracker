@@ -1,4 +1,6 @@
-Task Tracker made in VUE JS
+Task Tracker made in Vue JS
+
+![Main](https://user-images.githubusercontent.com/19861215/176429614-a2ce8b23-2939-4d8b-978e-73d60528b53d.png)
 
 ## Project setup
 
